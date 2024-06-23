@@ -12,7 +12,10 @@
 }
 
 body {
-    background-color: #252A34;
+    background-image: url('Blue\ Modern\ Desktop\ Wallpaper.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     margin: 0;
     padding: 0;
     width: 100vw;
@@ -49,6 +52,7 @@ h4 {
 
 .turn-container .turn-box {
     border: 3px solid #000;
+    background-color: #FF2E63;
     font-size: 1.6rem;
     font-weight: 700;
 }
@@ -72,8 +76,10 @@ h4 {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
     height: 250px;
+    background-color: #ffffff50;
     width: 250px;
     border-radius: 0.5rem;
+    margin-top: 0;
     margin: 30px auto;
     border: 2px solid #ffffff;
 }
@@ -83,7 +89,7 @@ h4 {
     font-size: 2rem;
     font-weight: 700;
     border-radius: 0.3rem;
-    border: 0.5px solid #00000050;
+    border: 0.5px solid #ffffff50;
 }
 
 .box:hover {
