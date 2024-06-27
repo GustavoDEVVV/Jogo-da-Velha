@@ -21,5 +21,5 @@ O projeto se trata do tão famoso "jogo da velha", ou seja, as mesmas regras bá
 O HTML é basicamente feito com "divs" e alguns textos para passar informações na tela. O CSS também não tem nenhuma novidade, sendo utilizado apenas para estilizar o projeto com cores, fontes, background, tamanho de letras, etc. O JS é um pouco mais complexo, com uso de funções, sendo as principais (checkWin(), checkDraw(), changeTurn()), que são responsáveis por verificar se o jogador "X" ou "O" ganhou, se houve algum empate, e o "turn" para quando um jogador fizer sua jogada, trocar automaticamente o símbolo. Fiz uso também de laços de repetição com "for" e "forEach" e algumas estruturas condicionais "IF e ELSE".
 
 # Autores
-- **Gustavo Domingues** - [Instagram](https://www.instagram.com/gustqvods/)
-- **Code Wars official** - [Instagram](https://www.instagram.com/code_wars_official/)
+- **Gustavo Domingues**
+
