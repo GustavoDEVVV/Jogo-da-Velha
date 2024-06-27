@@ -10,7 +10,7 @@ Esse é um projeto desenvolvido por mim em minhas horas de estudo. Fiz com a int
 
 
 # Tecnologias Empregadas
-| Corpo do projeto    | HTML |
+| Corpo do projeto    | HTML | <br>
 | Estilização    | CSS |
 | Interações    | JavaScript |
 
