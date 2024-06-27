@@ -11,6 +11,9 @@ Esse é um projeto desenvolvido por mim em minhas horas de estudo. Fiz com a int
 
 # Tecnologias Empregadas
 | Corpo do projeto    | HTML | <br>
-| Estilização    | CSS |
-| Interações    | JavaScript |
+| Estilização    | CSS |<br>
+| Interações    | JavaScript |<br>
+
+# Como usar?
+O projeto se trata do tão famoso "jogo da velha", ou seja, as mesmas regras básicas do jogo. Você se junta com um amigo e cada um escolhe entre "X" e "O". Com isso, é jogado um de cada vez e ganha quem conseguir fazer uma sequência de três com seu respectivo símbolo sem ser atrapalhado pelo seu adversário. Quando todos preencherem o quadrado e ninguém tiver ganhado, acontece a famosa "Velha" ou empate, um jogo lúdico e divertido entre amigos.
 
